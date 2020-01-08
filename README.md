@@ -36,6 +36,7 @@ Here is a list of notable changes compared to the original version:
   - Polish (Thanks to [Halamix2])
   - Portuguese(Brazil) (Thanks to GMBR | $herlock Bu$ter)
   - Russian (Thanks to [Blueberryy])
+  - Spanish (Thanks to [Fafy](https://github.com/Fafy2801))
 - Some smaller things i possibly forgot.
 
 This fork is backward compatible, but there are some changes which prevents you to use navmeshes from this fork in the original version. To make them work just replace all occurrences of `\n` with `;`.
